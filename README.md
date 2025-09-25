@@ -23,5 +23,5 @@ The project emphasizes **responsive design, scalability, and usability**, making
 
 ---
 
-username/Learnio-E-Learning-Website.git
+vaishmahajan/Learnio-E-Learning-Website.git
    cd Learnio-E-Learning-Website
